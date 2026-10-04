@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Tran Hong Quang 👋
 
-<!--
-**QuangTran079/QuangTran079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer Intern with hands-on experience
+building personal projects using React and TypeScript.
+My education background is in Software Engineering at Saigon University.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- Tailwind CSS
+- Sass
+
+## Featured Projects
+
+### 1. Fashion E-commerce Product Page
+A fashion product page interface presenting product images
+and information in a clear layout.
+
+- Source Code: [ADD ACTUAL REPOSITORY URL]
+- Live Demo: [ADD ACTUAL DEMO URL]
+
+### 2. Personal Portfolio
+A personal website showcasing my skills and frontend projects.
+
+- Source Code: [ADD ACTUAL REPOSITORY URL]
+- Live Demo: [ADD ACTUAL DEMO URL]
+
+### 3. Green Tea Landing Page
+A landing page introducing green tea products through
+organized content and images.
+
+- Source Code: [ADD ACTUAL REPOSITORY URL]
+- Live Demo: [ADD ACTUAL DEMO URL]
+
+## Links
+
+- GitHub: https://github.com/QuangTran079
+- Portfolio: [ADD ACTUAL PORTFOLIO URL]
+- CV PDF: [ADD GOOGLE DRIVE CV URL]
+
+## Contact
+
+- Email: quangtranhongquang@gmail.com
